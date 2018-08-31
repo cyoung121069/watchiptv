@@ -1,12 +1,4 @@
-#EXTINF:-1,US: ABC   east
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18851.ts
-#EXTINF:-1,US: WWE Network HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21064.ts
-#EXTINF:-1,US: CARTOON
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7806.ts
-#EXTINF:-1,A&E HD
-http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7933.ts
-#EXTM3U
+ #EXTM3U
 #EXTINF:-1,24/7 SOUTHPARK HD SERIES
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7867.ts
 #EXTINF:-1,A&E HD
@@ -33,6 +25,8 @@ http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7836.
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7885.ts
 #EXTINF:-1,AFN Sports HD
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7886.ts
+#EXTINF:-1,AL JAZEERA U.S HD
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7849.ts
 #EXTINF:-1,AMC
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7936.ts
 #EXTINF:-1,BBC WORLD NEWS
@@ -85,6 +79,8 @@ http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7818.
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7869.ts
 #EXTINF:-1,Hallmark Movies
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7798.ts
+#EXTINF:-1,HBO Comedy HD East
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7817.ts
 #EXTINF:-1,HBO Family HD
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7868.ts
 #EXTINF:-1,HBO HD East
@@ -95,22 +91,52 @@ http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7815.
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7814.ts
 #EXTINF:-1,HGTV HD
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7861.ts
+#EXTINF:-1,KIDS READING TV
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7826.ts
 #EXTINF:-1,History HD
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7807.ts
 #EXTINF:-1,HSN YT LIVE
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7827.ts
 #EXTINF:-1,LIFETIME HD
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7907.ts
+#EXTINF:-1,LMN HDTV
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7847.ts
 #EXTINF:-1,MOVIETIME
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7857.ts
 #EXTINF:-1,Movietime TV
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7808.ts
+#EXTINF:-1,MTV 2 CANADA
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7893.ts
+#EXTINF:-1,MTV 2 HD
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7899.ts
 #EXTINF:-1,MTV HD
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7900.ts
+#EXTINF:-1,Music Choice HIP-HOP
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7896.ts
+#EXTINF:-1,Music Choice RAP
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7895.ts
+#EXTINF:-1,MTV LIVE
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7898.ts
+#EXTINF:-1,Music Choice 90's
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7894.ts
+#EXTINF:-1,MY9 TV
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7846.ts
+#EXTINF:-1,NASA TV HD
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7829.ts
+#EXTINF:-1,NASA TV MEDIA HD
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7828.ts
+#EXTINF:-1,NAT GEO HD
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7903.ts
 #EXTINF:-1,NAT GEO Wild
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7902.ts
 #EXTINF:-1,NICK HD (kids)
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7911.ts
+#EXTINF:-1,NICKELODEON KIDS
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7928.ts
+#EXTINF:-1,NICKTOONS
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7910.ts
+#EXTINF:-1,Nursery Rhymes (Baby Songs)
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7871.ts
 #EXTINF:-1,OWN HD (Oprah Winfrey TV)
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7844.ts
 #EXTINF:-1,P.B.S Kids
@@ -123,6 +149,8 @@ http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7935.
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7812.ts
 #EXTINF:-1,TENNIS HD
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7838.ts
+#EXTINF:-1,THE WALKING DEAD
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7865.ts
 #EXTINF:-1,The Weather Channel
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7851.ts
 #EXTINF:-1,TLC
@@ -143,6 +171,10 @@ http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7762.
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7761.ts
 #EXTINF:-1,Tsn-Sport 5 HD
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7760.ts
+#EXTINF:-1,TV SERIES
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7874.ts
+#EXTINF:-1,University of California TV
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7850.ts
 #EXTINF:-1,USA Network
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/7945.ts
 #EXTINF:-1,VH1 HD
@@ -223,7 +255,7 @@ http://217.23.15.183:8789/live/bahar/bahar/11112.ts
 http://217.23.15.183:8789/live/bahar/bahar/12356.ts
 #EXTINF:-1,|USA| NAT GEO
 http://217.23.15.183:8789/live/bahar/bahar/12355.ts
-#EXTINF:-1,|USA| DISCOVERY  HD
+#EXTINF:-1,|USA| DISCOVERY HD
 http://217.23.15.183:8789/live/bahar/bahar/12360.ts
 #EXTINF:-1,|USA| DISCOVERY SC HD
 http://217.23.15.183:8789/live/bahar/bahar/12359.ts
@@ -590,3 +622,134 @@ http://ipsatpro.biz:8080/live/Paulo/Paulo/1471.ts
 http://ipsatpro.biz:8080/live/Paulo/Paulo/1510.ts
 #EXTINF:-1,US: BET HD CA
 http://ipsatpro.biz:8080/live/Paulo/Paulo/1506.ts
+#EXTINF:-1,|CA| TVA MONTREAL
+http://217.23.15.183:8789/live/bahar/bahar/2739.ts
+#EXTINF:-1,|CA| TVA GATINEAU
+http://217.23.15.183:8789/live/bahar/bahar/11483.ts
+#EXTINF:-1,|CA| TVA QUEBEC
+http://217.23.15.183:8789/live/bahar/bahar/11482.ts
+#EXTINF:-1,|CA| CANAL VIE
+http://217.23.15.183:8789/live/bahar/bahar/11480.ts
+#EXTINF:-1,|CA| VRAK TV
+http://217.23.15.183:8789/live/bahar/bahar/11479.ts
+#EXTINF:-1,|CA| VTELE
+http://217.23.15.183:8789/live/bahar/bahar/2740.ts
+#EXTINF:-1,|CA| TELE QUEBEC
+http://217.23.15.183:8789/live/bahar/bahar/2730.ts
+#EXTINF:-1,|CA| TV5 QUEBEC
+http://217.23.15.183:8789/live/bahar/bahar/11484.ts
+#EXTINF:-1,|CA| ICI VANCOUVER
+http://217.23.15.183:8789/live/bahar/bahar/11474.ts
+#EXTINF:-1,|CA| ICI MONTREAL
+http://217.23.15.183:8789/live/bahar/bahar/2744.ts
+#EXTINF:-1,|CA| ICI-Television
+http://217.23.15.183:8789/live/bahar/bahar/8508.ts
+#EXTINF:-1,|CA| CPAC FRENCH
+http://217.23.15.183:8789/live/bahar/bahar/11500.ts
+#EXTINF:-1,|CA| CANALSAVOIR
+http://217.23.15.183:8789/live/bahar/bahar/8037.ts
+#EXTINF:-1,|CA|TV-Francophonie
+http://217.23.15.183:8789/live/bahar/bahar/8507.ts
+#EXTINF:-1,|CA| LCN
+http://217.23.15.183:8789/live/bahar/bahar/11499.ts
+#EXTINF:-1,|CA| RDI
+http://217.23.15.183:8789/live/bahar/bahar/11492.ts
+#EXTINF:-1,|CA| RDS INFO
+http://217.23.15.183:8789/live/bahar/bahar/11538.ts
+#EXTINF:-1,|CA| RDS
+http://217.23.15.183:8789/live/bahar/bahar/11491.ts
+#EXTINF:-1,|CA| RDS ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13546.ts
+#EXTINF:-1,|CA| RDS 2
+http://217.23.15.183:8789/live/bahar/bahar/11490.ts
+#EXTINF:-1,|CA| TVA SPORTS
+http://217.23.15.183:8789/live/bahar/bahar/11481.ts
+#EXTINF:-1,|CA| SUPER ECRAN 1
+http://217.23.15.183:8789/live/bahar/bahar/11488.ts
+#EXTINF:-1,|CA| SUPER ECRAN 1 ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13545.ts
+#EXTINF:-1,|CA| SUPER ECRAN 2
+http://217.23.15.183:8789/live/bahar/bahar/11487.ts
+#EXTINF:-1,|CA| SUPER ECRAN 2 ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13544.ts
+#EXTINF:-1,|CA| SUPER ECRAN 3
+http://217.23.15.183:8789/live/bahar/bahar/11486.ts
+#EXTINF:-1,|CA| SUPER ECRAN 3 ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13543.ts
+#EXTINF:-1,|CA| SUPER ECRAN 4 ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13542.ts
+#EXTINF:-1,|CA| SUPER ECRAN 4
+http://217.23.15.183:8789/live/bahar/bahar/11485.ts
+#EXTINF:-1,|CA| CINEPOP
+http://217.23.15.183:8789/live/bahar/bahar/11501.ts
+#EXTINF:-1,|CA| CINEPOP ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13541.ts
+#EXTINF:-1,|CA| SERIES+
+http://217.23.15.183:8789/live/bahar/bahar/11489.ts
+#EXTINF:-1,|CA| SERIES ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13540.ts
+#EXTINF:-1,|CA| YOOPA
+http://217.23.15.183:8789/live/bahar/bahar/11478.ts
+#EXTINF:-1,|CA| YOOPA ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13539.ts
+#EXTINF:-1,|CA| TELETOON
+http://217.23.15.183:8789/live/bahar/bahar/2743.ts
+#EXTINF:-1,|CA| TELETOON FRENCH ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13537.ts
+#EXTINF:-1,|CA| TFO
+http://217.23.15.183:8789/live/bahar/bahar/11539.ts
+#EXTINF:-1,|CA| DISNEY FRENCH
+http://217.23.15.183:8789/live/bahar/bahar/2745.ts
+#EXTINF:-1,|CA| DISNEY FRENCH ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13538.ts
+#EXTINF:-1,|CA| ARTV
+http://217.23.15.183:8789/live/bahar/bahar/11506.ts
+#EXTINF:-1,|CA| ARTV_ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13536.ts
+#EXTINF:-1,|CA| CASA
+http://217.23.15.183:8789/live/bahar/bahar/11503.ts
+#EXTINF:-1,|CA| CASA_ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13535.ts
+#EXTINF:-1,|CA| EVASION
+http://217.23.15.183:8789/live/bahar/bahar/11540.ts
+#EXTINF:-1,|CA| HISTORIA
+http://217.23.15.183:8789/live/bahar/bahar/11475.ts
+#EXTINF:-1,|CA| HISTORIA_ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13534.ts
+#EXTINF:-1,|CA| MOI & CIE
+http://217.23.15.183:8789/live/bahar/bahar/11496.ts
+#EXTINF:-1,|CA| MOI CIE_ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13533.ts
+#EXTINF:-1,|CA| CANAL D
+http://217.23.15.183:8789/live/bahar/bahar/11505.ts
+#EXTINF:-1,|CA| CANAL D_ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13532.ts
+#EXTINF:-1,|CA| ADDIK TV
+http://217.23.15.183:8789/live/bahar/bahar/11507.ts
+#EXTINF:-1,|CA| ADDIK_ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13531.ts
+#EXTINF:-1,|CA| UNIS TV
+http://217.23.15.183:8789/live/bahar/bahar/10574.ts
+#EXTINF:-1,|CA| PRISE2_ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13530.ts
+#EXTINF:-1,|CA| PRISE 2
+http://217.23.15.183:8789/live/bahar/bahar/11493.ts
+#EXTINF:-1,|CA| ZTELE
+http://217.23.15.183:8789/live/bahar/bahar/11477.ts
+#EXTINF:-1,|CA| ZTELE_ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13529.ts
+#EXTINF:-1,|CA| ZESTE
+http://217.23.15.183:8789/live/bahar/bahar/11476.ts
+#EXTINF:-1,|CA| ZESTE_ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13528.ts
+#EXTINF:-1,|CA| METEO
+http://217.23.15.183:8789/live/bahar/bahar/11497.ts
+#EXTINF:-1,|CA| METEO_ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13527.ts
+#EXTINF:-1,|CA| MUSIQUE PLUS
+http://217.23.15.183:8789/live/bahar/bahar/11494.ts
+#EXTINF:-1,|CA| MUSICPLUS_ROKU
+http://217.23.15.183:8789/live/bahar/bahar/13526.ts
+
+
+0 peopl
